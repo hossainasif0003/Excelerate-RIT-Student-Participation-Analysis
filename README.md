@@ -48,49 +48,50 @@ Exploratory data analysis was performed to understand student participation patt
 
 ### Opportunity Category Distribution
 
-![<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/cbd6ef6c-e5c9-4b8b-9a8e-c8466fc07f52" />
-)
+ <img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/cbd6ef6c-e5c9-4b8b-9a8e-c8466fc07f52" />
+
 
 *Figure 1: Distribution of learners across the five opportunity categories.*
 
 ### Status Group Distribution
 
-![<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/72e95c67-c259-48f9-87d9-4b2f49913089" />
-)
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/72e95c67-c259-48f9-87d9-4b2f49913089" />
+
 
 *Figure 2: Distribution of learners by status group.*
 
 ### Signup Trend by Year
 
-![<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/7a73bfec-f3b1-49a7-b129-19285cdc684d" />
-)
+  <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/7a73bfec-f3b1-49a7-b129-19285cdc684d" />
+
 
 *Figure 3: Number of participants who signed up in 2023 and 2024.*
 
 ### Top Five Countries
 
-![<img width="989" height="489" alt="image" src="https://github.com/user-attachments/assets/7b8f85ec-abf5-4642-a068-70b9ca717294" />
-T)
+  img width="989" height="489" alt="image" src="https://github.com/user-attachments/assets/7b8f85ec-abf5-4642-a068-70b9ca717294" />
+
 
 *Figure 4: The five countries with the highest numbers of participants.*
 
 ### Top Five Institutions
 
-![<img width="990" height="490" alt="image" src="https://github.com/user-attachments/assets/74d2e3d3-e887-43e6-b2df-c1abb3219d99" />
-)
+  <img width="990" height="490" alt="image" src="https://github.com/user-attachments/assets/74d2e3d3-e887-43e6-b2df-c1abb3219d99" />
+
 
 *Figure 5: The five institutions with the highest numbers of participants.*
 
 ### Age Distribution
 
-!<img width="629" height="470" alt="image" src="https://github.com/user-attachments/assets/d8df7590-e8d0-4828-b7a7-c0d8a2b43d54" />
-)
+<img width="629" height="470" alt="image" src="https://github.com/user-attachments/assets/d8df7590-e8d0-4828-b7a7-c0d8a2b43d54" />
+
 
 *Figure 6: Age distribution of participants in the dataset.*
 
 ### Gender Distribution
 
-![Gender distribution](sandbox:/workspace/scratch/292c1f2d89ac/RIT_Student_Participation_Project/images/gender-distribution.png)
+  <img width="722" height="371" alt="{5CB1CB2B-EE6D-4E98-BC2B-570BDCB2E09D}" src="https://github.com/user-attachments/assets/124895e3-a96f-418e-a783-c65c5e39106e" />
+
 
 *Figure 7: Number of participants in each gender category.*
 
