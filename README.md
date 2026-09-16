@@ -1,4 +1,4 @@
-## RIT Student Participation Analysis
+## Excelerate RIT Student Participation Analysis
 
 This README presents the final submission of the RIT Student Participation Analysis project. The purpose of the project was to understand student participation patterns and build a model that could predict learner status.
 
@@ -55,31 +55,36 @@ Exploratory data analysis was performed to understand student participation patt
 
 ### Status Group Distribution
 
-![Status group distribution](sandbox:/workspace/scratch/292c1f2d89ac/RIT_Student_Participation_Project/images/status-group-distribution.png)
+![<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/72e95c67-c259-48f9-87d9-4b2f49913089" />
+)
 
 *Figure 2: Distribution of learners by status group.*
 
 ### Signup Trend by Year
 
-![Signup trend by year](sandbox:/workspace/scratch/292c1f2d89ac/RIT_Student_Participation_Project/images/signup-trend-by-year.png)
+![<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/7a73bfec-f3b1-49a7-b129-19285cdc684d" />
+)
 
 *Figure 3: Number of participants who signed up in 2023 and 2024.*
 
 ### Top Five Countries
 
-![Top five countries](sandbox:/workspace/scratch/292c1f2d89ac/RIT_Student_Participation_Project/images/top-five-countries.png)
+![<img width="989" height="489" alt="image" src="https://github.com/user-attachments/assets/7b8f85ec-abf5-4642-a068-70b9ca717294" />
+T)
 
 *Figure 4: The five countries with the highest numbers of participants.*
 
 ### Top Five Institutions
 
-![Top five institutions](sandbox:/workspace/scratch/292c1f2d89ac/RIT_Student_Participation_Project/images/top-five-institutions.png)
+![<img width="990" height="490" alt="image" src="https://github.com/user-attachments/assets/74d2e3d3-e887-43e6-b2df-c1abb3219d99" />
+)
 
 *Figure 5: The five institutions with the highest numbers of participants.*
 
 ### Age Distribution
 
-![Age distribution](sandbox:/workspace/scratch/292c1f2d89ac/RIT_Student_Participation_Project/images/age-distribution.png)
+!<img width="629" height="470" alt="image" src="https://github.com/user-attachments/assets/d8df7590-e8d0-4828-b7a7-c0d8a2b43d54" />
+)
 
 *Figure 6: Age distribution of participants in the dataset.*
 
