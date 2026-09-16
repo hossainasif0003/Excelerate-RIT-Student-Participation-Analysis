@@ -48,7 +48,8 @@ Exploratory data analysis was performed to understand student participation patt
 
 ### Opportunity Category Distribution
 
-![Opportunity category distribution](sandbox:/workspace/scratch/292c1f2d89ac/RIT_Student_Participation_Project/images/opportunity-category-distribution.png)
+![<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/cbd6ef6c-e5c9-4b8b-9a8e-c8466fc07f52" />
+)
 
 *Figure 1: Distribution of learners across the five opportunity categories.*
 
