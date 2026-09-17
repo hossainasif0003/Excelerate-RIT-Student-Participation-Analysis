@@ -130,7 +130,15 @@ The analysis can help stakeholders understand participation patterns and identif
 
 ## Project Files
 
-* Google Colab notebook: **[Add your Google Colab link here]**
+## Google Colab Notebooks
+
+* **[Week 1: Data Understanding and Cleaning](https://colab.research.google.com/drive/1QbJHXX0MUTwrMz9aiz0y9oIpNFEx-ZU8?usp=sharing)**
+
+* **[Week 2: Exploratory Data Analysis](https://colab.research.google.com/drive/1iTGvqyX-eqHQKSYOnJtNNPbR2jB-jTmL?usp=sharing)**
+
+* **[Week 3: Predictive Modelling](https://colab.research.google.com/drive/1PZZJfIDX4jGYcTqThlDPxh0dupsAJoDs?usp=sharing)**
+
+
 * Stakeholder report: `RIT_Student_Participation_Stakeholder_Report.pdf`
 * Main cleaned dataset: `RIT_Cleaned_Dataset_Week2`
 * Model-ready dataset: `RIT_Model_Ready_Dataset_Week3`
