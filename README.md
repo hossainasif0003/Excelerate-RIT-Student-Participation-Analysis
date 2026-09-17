@@ -139,9 +139,8 @@ The analysis can help stakeholders understand participation patterns and identif
 * **[Week 3: Predictive Modelling](https://colab.research.google.com/drive/1PZZJfIDX4jGYcTqThlDPxh0dupsAJoDs?usp=sharing)**
 
 
-* Stakeholder report: `RIT_Student_Participation_Stakeholder_Report.pdf`
+* Stakeholder report: https://drive.google.com/file/d/1B_6QB1Q_NiN87ZzRj4FJFqHsqRJR5o3y/view?usp=sharing
 * Main cleaned dataset: `RIT_Cleaned_Dataset_Week2`
-* Model-ready dataset: `RIT_Model_Ready_Dataset_Week3`
 
 ## Author
 
