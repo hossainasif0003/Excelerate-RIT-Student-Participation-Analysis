@@ -128,21 +128,16 @@ Logistic Regression was selected as the most suitable model because it provided 
 
 The analysis can help stakeholders understand participation patterns and identify learners who may require early support. Model predictions should support the review process, while final decisions should be made by the responsible stakeholders.
 
-## Project Files
-
 ## Google Colab Notebooks
 
 * **[Week 1: Data Understanding and Cleaning](https://colab.research.google.com/drive/1QbJHXX0MUTwrMz9aiz0y9oIpNFEx-ZU8?usp=sharing)**
 
 * **[Week 2: Exploratory Data Analysis](https://colab.research.google.com/drive/1iTGvqyX-eqHQKSYOnJtNNPbR2jB-jTmL?usp=sharing)**
 
-* **[Week 3: Predictive Modelling](https://colab.research.google.com/drive/1PZZJfIDX4jGYcTqThlDPxh0dupsAJoDs?usp=sharing)**
+* **[Week 3 and 4: Predictive Modelling](https://colab.research.google.com/drive/1PZZJfIDX4jGYcTqThlDPxh0dupsAJoDs?usp=sharing)**
 
 
-* Stakeholder report: https://drive.google.com/file/d/1B_6QB1Q_NiN87ZzRj4FJFqHsqRJR5o3y/view?usp=sharing
-* Main cleaned dataset: `RIT_Cleaned_Dataset_Week2`
 
 ## Author
 
 **Asif Hossain**
-image links and the required `images` folder.
